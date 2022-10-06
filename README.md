@@ -1,3 +1,4 @@
+![logo](https://github.com/Deep-27/Deep-27/blob/main/Black%20and%20Red%20Animated%20Halloween%20Twitter%20Header.gif)
 <h1 align="center">Hi 👋, I'm Pranjal Deep</h1>
 <h3 align="center">I'm a Student, Developer, Youtuber, Freelancer ,A passionate Coder !!!</h3>
 <img align="right" alt="coding"  width="550" src="https://media.tenor.com/Yg8O2WDlGkYAAAAi/cyrentec-sci-fi.gif">
